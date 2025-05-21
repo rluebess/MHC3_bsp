@@ -43,6 +43,7 @@
         <Board name="PIC32MK MCM Curiosity Pro" processor="PIC32MK1024MCM100" config="pic32mk_mcm_curiosity_pro"/>
         <Board name="PIC32MK MCA Curiosity Pro" processor="PIC32MK0128MCA048" config="pic32mk_mca_curiosity_pro"/>
         <Board name="PIC32MX470 Curiosity Development Board" processor="PIC32MX470F512H" config="pic32mx470_curiosity"/>
+        <Board name="PIC32MX440 CAS Host Explorer Board" processor="PIC32MX440F256H" config="pic32mx440H_cas_host_explorer"/>
         <Board name="PIC32MZ DA Starter Kit" processor="PIC32MZ2064DAG169" config="pic32mz_da_sk"/>
         <Board name="PIC32MZ DA Starter Kit" processor="PIC32MZ2064DAH169" config="pic32mz_da_sk"/>
         <Board name="PIC32MZ DA Starter Kit" processor="PIC32MZ2064DAR169" config="pic32mz_da_sk"/>
